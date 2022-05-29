@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/example1.ts",
   "scripts": {
-    "server": "./node_modules/.bin/ts-node src/example1.ts"
+    "server1": "./node_modules/.bin/ts-node src/example1.ts",
+    "server2": "./node_modules/.bin/ts-node src/example2.ts"
   },
   "keywords": [],
   "author": "",
